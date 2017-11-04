@@ -1,14 +1,16 @@
-// var a = 5;
-// var str = 'Some string';
-// var strDblQuote = "Some string in double quote";
-// var mixInDblStr = "Jeetu's is a master's degree holder";
-// var mixInSingStr = 'We want to have a book "Harry Potter" to be borrowed';
-// var joinedStr = mixInDblStr + ' ' + mixInSingStr;
+var a = 5;
+a  = 'Jeetu';
+console.log(a);
+var str = 'Some string';
+var strDblQuote = "Some string in double quote";
+var mixInDblStr = "Jeetu's is a master's degree holder";
+var mixInSingStr = 'We want to have a book "Harry Potter" to be borrowed';
+var joinedStr = mixInDblStr + ' ' + mixInSingStr;
 
-// var stuRec = {
-//     name: 'Jeetu',
-//     highestQualification: 'Dumb'
-// }
+var stuRec = {
+    name: 'Jeetu',
+    highestQualification: 'Dumb'
+}
 
 function abc() {
     var a = "Functional a";
